@@ -1,0 +1,51 @@
+export const books=[
+    {
+        id:1,
+        imageURL:"https://rukminim2.flixcart.com/image/832/832/kgqvlow0/book/2/4/9/the-secret-garden-original-imafwwgwgh5gxs7n.jpeg?q=70",
+        name:"Secret garden",
+        authorName:"Frances Hodgson Burnett",
+        category:"none",
+    },
+    {
+        id:2,
+        imageURL:"https://rukminim2.flixcart.com/image/832/832/jx9aefk0/book/1/1/5/paths-of-fear-original-imafg97hg8setggt.jpeg?q=70",
+        name:"Paths of fear",
+        authorName:"Connie Kerbs",
+        category:"none",
+    },
+    {
+        id:3,
+        imageURL:"https://rukminim2.flixcart.com/image/832/832/kgqvlow0/book/1/0/2/relativity-the-special-and-the-general-theory-original-imafwwgwxhyj73md.jpeg?q=70",
+        name:"Relativity: The Special and the General Theory",
+        authorName:"Albert Einstein",
+        category:"none",
+    },
+    {
+        id:3,
+        imageURL:"https://rukminim2.flixcart.com/image/832/832/jbxyxzk0-1/book/6/7/2/autobiography-of-a-yogi-original-imaff4kenfm2kfhe.jpeg?q=70",
+        name:"Autobiography Of A Yogi",
+        authorName:"Paramhansa Yogananda",
+        category:"none",
+    },
+    {
+        id:4,
+        imageURL:"https://rukminim2.flixcart.com/image/832/832/xif0q/book/y/5/j/tha-physiology-of-money-by-morgan-housely-original-imagn3vmv7z2xmja.jpeg?q=70",
+        name:"The Psychology Of Money",
+        authorName:"MORGAN HOUSEL",
+        category:"currently_reading",
+    },
+    {
+        id:5,
+        imageURL:"https://rukminim2.flixcart.com/image/832/832/xif0q/book/m/8/u/rich-dad-poor-dad-original-imagzfcupharfqaj.jpeg?q=70",
+        name:"Rice Dad Poor Dad",
+        authorName:"Robert kiyo sakti",
+        category:"read",
+    },
+    {
+        id:6,
+        imageURL:"https://rukminim2.flixcart.com/image/832/832/kjlrb0w0-0/regionalbooks/o/j/m/bhagavad-gita-as-it-is-2016-english-edition-original-imafz56rntgyhgxr.jpeg?q=70",
+        name:"Bhagavad Gita",
+        authorName:"A.C. Bhaktivedanta Swami Prabhupada",
+        category:"want_to_read",
+    },
+]
